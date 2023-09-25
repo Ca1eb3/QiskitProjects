@@ -10,5 +10,5 @@ Below is a list of the different projects that you can find in this repository w
 ## Deutsche-Jozsa Algorithm
 + Given an arbitrary function f:{0,1}-->{0,1} Deutsche's algorithm determines whether the function is constant or balanced
 + Deutsche-Jozsa algorithm generalizes Deutsches algorithm to a function f:{0,1}^n-->{0,1}.
-+ This is my first attempt at implementing a true algorithm using Qiskit
++ This is my first attempt at implementing a true quantum algorithm using Qiskit
 
